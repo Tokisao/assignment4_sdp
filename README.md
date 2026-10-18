@@ -1,6 +1,6 @@
 # Assignment #4 — Facade Pattern
 
-**Name:** Zharylgapova Dayana
+**Name:** Zharylgapova Dayana<br>
 **Group:** SE-2538
 
 ## Description
